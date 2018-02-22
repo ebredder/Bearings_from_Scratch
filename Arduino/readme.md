@@ -6,5 +6,6 @@ Materials:
 + TIP120 Transistor
 + 10K Ohm Resistor
 + 10K Ohm Potentiometer
++ 1N4003 Recctifier Diode
 + 9V-15V Power Supply
 + DC Motor
