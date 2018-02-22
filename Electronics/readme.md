@@ -2,7 +2,7 @@
 
 The circuit diagram should help in construction of the motor driver circuit. A PCB can be made utilizing the design files, or the circuit can be built on protoboard.
 
-Materials:
+### Materials:
 + Arduino Nano
 + TIP120 Transistor
 + 10K Ohm Resistor
