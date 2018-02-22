@@ -12,3 +12,4 @@ This design works with 6mm airsoft BBs.
 + 1" OD PVC Pipe x 3.5"
 + Sandpaper
 + 24x 6mm BBs
++ Pulley Belt
