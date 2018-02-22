@@ -16,3 +16,7 @@ The circuit diagram should help in construction of the motor driver circuit. A P
 ## Circuit Schematic:
 
 ![Schematic](https://github.com/ebredder/Bearings_from_Scratch/blob/master/Electronics/ArduinoTIP120-MotorDriver_schem.png)
+
+## Circuit PCB for Laser Cutter:
+
+![PCB](https://github.com/ebredder/Bearings_from_Scratch/blob/master/Electronics/bearingPCB.png)
