@@ -1,4 +1,9 @@
+##Ball Bearing Tests in OpenSCAD:
+![Bearing w 6mm Balls](https://github.com/ebredder/Bearings_from_Scratch/blob/master/Design_Files/pics/bearingwballs.png)
+
 Check the 'Layers' tab. The top half of the design is meant to be cut out of 3mm plywood. The bottom half is meant to be cut out of 5mm plywood.
+
+
 
 This design works with 6mm airsoft BBs. 
 
