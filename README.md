@@ -10,3 +10,16 @@ The machine and PCB layout were created in http://www.inkscape.org.
 The schematic and breadboard layout is done in http://www.fritzing.org. 
 
 All of these design programs are free and open source.
+
+FUTURE ADDITIONS:
++ Algorithm to cut sandpaper as a continuous piece based on the diameter and length of the sanding head
++ Adjustable motor mount that attaches to the base
++ Ability to clamp the machine to a table
++ Simpler construction
++ PCB Circuit
++ Push Stick for sanding materials
++ Measuring device for setting the infeed and outfeed tables
++ Customized bearings
++ Readout for speed, rpm, control position
++ Fuse, switch, circuit safety
++ MORE!!
