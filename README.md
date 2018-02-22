@@ -1,4 +1,7 @@
 # Bearings from Scratch
+
+![bearing](https://github.com/ebredder/Bearings_from_Scratch/blob/master/Design_Files/pics/bearingassembled.jpg)
+
 Design files to create ball bearings from 6mm airsoft BBs or 4.5mm steel BBs! 
 
 The machine design is meant to sand the 5mm plywood down to a thickness of 4.5mm to fit the smaller bearings. The design uses the 6mm bearings to move the sanding head. The majority of the project is built using 3mm and 5mm plywood and cut on a laser cutter. 
