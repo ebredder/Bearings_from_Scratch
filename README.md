@@ -11,7 +11,7 @@ The schematic and breadboard layout is done in [Fritzing](http://www.fritzing.or
 
 ###### All of these design programs are free and open source.
 
-###FUTURE ADDITIONS:
+### FUTURE ADDITIONS:
 + Algorithm to cut sandpaper as a continuous piece based on the diameter and length of the sanding head
 + Adjustable motor mount that attaches to the base
 + Ability to clamp the machine to a table
