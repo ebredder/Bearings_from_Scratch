@@ -1,11 +1,11 @@
-int potPin = A0; // Analog input 0 connected to the potentiometer
-int transistorPin = 9; // PWM Pin 9 connected to the base of the transistor
-int potValue = 0; // value returned from the potentiometer
+int potPin = A0; // Analog input 0 <- potentiometer
+int transistorPin = 9; // PWM pin 9 -> BASE transistor
+int potValue = 0; // value from potentiometer
 
 void setup() {
-  pinMode(transistorPin, OUTPUT); // set the transistor pin as output:
+  pinMode(transistorPin, OUTPUT); // set the 'transistorPin' as an output
 }
 void loop() {
-  potValue = analogRead(potPin) / 4; // read the potentiometer, convert it to 0 - 255:
-  analogWrite(transistorPin, potValue); // use that to control the transistor:
+  potValue = analogRead(potPin) / 4; // read potentiometer, convert to 0-255
+  analogWrite(transistorPin, potValue); // control transistor with potentiometer
 }
