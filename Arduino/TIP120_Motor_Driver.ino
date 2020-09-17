@@ -9,3 +9,5 @@ void loop() {
   potValue = analogRead(potPin) / 4; // read potentiometer, convert to 0-255
   analogWrite(transistorPin, potValue); // control transistor with potentiometer
 }
+
+#Comment
